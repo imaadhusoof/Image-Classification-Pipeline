@@ -1,0 +1,9 @@
+# datasets / generated features (not committed)
+task1_data/
+task2_data/
+train_metadata*.csv
+
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
